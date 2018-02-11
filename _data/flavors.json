@@ -1,0 +1,229 @@
+[
+    {
+        "title": "Primary Aromas",
+        "groups": [
+            {
+                "title": "Floral",
+                "flavors": [
+                    "Iris",
+                    "Peony",
+                    "Elderflower",
+                    "Acacia",
+                    "Lilac",
+                    "Jasmine",
+                    "Honeysuckle",
+                    "Violet",
+                    "Lavender",
+                    "Rose",
+                    "Potpourri",
+                    "Hibiscus"
+                ]
+            },
+            {
+                "title": "Citrus",
+                "flavors": [
+                    "Lime",
+                    "Lemon",
+                    "Grapefruit",
+                    "Orange",
+                    "Marmalade"
+                ]
+            },
+            {
+                "title": "Tree Fruit",
+                "flavors": [
+                    "Quince",
+                    "Apple",
+                    "Pear",
+                    "Nectarine",
+                    "Peach",
+                    "Apricot",
+                    "Persimmon"
+                ]
+            },
+            {
+                "title": "Tropical Fruit",
+                "flavors": [
+                    "Pineapple",
+                    "Mango",
+                    "Guava",
+                    "Passion Fruit",
+                    "Lychee",
+                    "Bubblegum"
+                ]
+            },
+            {
+                "title": "Red Fruit",
+                "flavors": [
+                    "Cranberry",
+                    "Red Plum",
+                    "Pomegranate",
+                    "Sour Cherry",
+                    "Strawberry",
+                    "Cherry",
+                    "Raspberry"
+                ]
+            },
+            {
+                "title": "Black Fruit",
+                "flavors": [
+                    "Boysenberry",
+                    "Black Currant",
+                    "Black Cherry",
+                    "Plum",
+                    "Blackberry",
+                    "Blueberry",
+                    "Olive"
+                ]
+            },
+            {
+                "title": "Dried Fruit",
+                "flavors": [
+                    "Raisin",
+                    "Fig",
+                    "Date",
+                    "Fruitcake"
+                ]
+            },
+            {
+                "title": "Noble Rot",
+                "flavors": [
+                    "Beeswax",
+                    "Ginger",
+                    "Honey"
+                ]
+            },
+            {
+                "title": "Spice",
+                "flavors": [
+                    "White Pepper",
+                    "Red Pepper",
+                    "Black Pepper",
+                    "Cinnamon",
+                    "Anise",
+                    "5-Spice",
+                    "Fennel",
+                    "Eucalyptus",
+                    "Mint",
+                    "Thyme"
+                ]
+            },
+            {
+                "title": "Vegetable",
+                "flavors": [
+                    "Grass",
+                    "Tomato Leaf",
+                    "Gooseberry",
+                    "Bell Pepper",
+                    "Jalapeño",
+                    "Bitter Almond",
+                    "Tomato",
+                    "Sun-Dried Tomato",
+                    "Black Tea"
+                ]
+            },
+            {
+                "title": "Earth",
+                "flavors": [
+                    "Clay Pot",
+                    "Slate",
+                    "Wet Gravel",
+                    "Potting Soil",
+                    "Red Beet",
+                    "Volcanic Rocks",
+                    "Petroleum"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Secondary Aromas",
+        "groups": [
+            {
+                "title": "Microbial",
+                "flavors": [
+                    "Butter",
+                    "Cream",
+                    "Sourdough",
+                    "Lager",
+                    "Truffle",
+                    "Mushroom"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tertiary Aromas",
+        "groups": [
+            {
+                "title": "Oak Aging",
+                "flavors": [
+                    "Vanilla",
+                    "Coconut",
+                    "Baking Spices",
+                    "Cigar Box",
+                    "Smoke",
+                    "Dill"
+                ]
+            },
+            {
+                "title": "General Aging",
+                "flavors": [
+                    "Dried Fruit",
+                    "Nutty Flavors",
+                    "Tobacco",
+                    "Coffee",
+                    "Cocoa",
+                    "Leather"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Faults and Other",
+        "groups": [
+            {
+                "title": "Cork Taint",
+                "flavors": [
+                    "Musty Cardboard",
+                    "Wet Dog"
+                ]
+            },
+            {
+                "title": "Sulfides and Mercaptans",
+                "flavors": [
+                    "Cured Meat",
+                    "Boiled Eggs",
+                    "Burnt Rubber",
+                    "Lit Match",
+                    "Garlic",
+                    "Onion",
+                    "Cat Pee"
+                ]
+            },
+            {
+                "title": "Brettanomyces",
+                "flavors": [
+                    "Black Cardamon",
+                    "Band-Aid",
+                    "Sweaty Leather Saddle",
+                    "Horse Manure"
+                ]
+            },
+            {
+                "title": "Madeirized",
+                "flavors": [
+                    "Toffee",
+                    "Stewed Fruit"
+                ]
+            },
+            {
+                "title": "Volatile Acidity",
+                "flavors": [
+                    "Vinegar",
+                    "Nail Polish Remover"
+                ]
+            }
+        ]
+    }
+]

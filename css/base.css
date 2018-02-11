@@ -1,0 +1,18 @@
+body {
+    background-color: var(--color-background);
+    font-family: var(--font-sans);
+    color: var(--color-base);
+    line-height: 1.5;
+}
+
+html {
+    font-size: 110%;
+}
+
+html * {
+    box-sizing: border-box;
+}
+
+figure {
+    margin: 0;
+}

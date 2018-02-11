@@ -1,0 +1,12 @@
+<nav class="flavor-nav">
+    <ul class="flavor-list-nav">
+        {% for item in flavors %}
+            {% for group in item.groups %}
+                {%- set slugifiedGroup -%}
+                    {{- group.title | lower | replace (" ", "-") -}}
+                {%- endset -%}
+                <li class="flavor-list-nav__item flavor-nav-{{ slugifiedGroup }}"><a href="#{{ slugifiedGroup }}">{{ group.title }}</a></li>
+            {% endfor %}
+        {% endfor %}
+    </ul>
+</nav>

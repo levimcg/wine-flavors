@@ -1,0 +1,24 @@
+{% extends "templates/base.njk" %}
+
+{% block content %}
+
+    {% include "flavor-nav.njk" %}
+
+    {% for item in flavors %}
+        <ul class="group-list" data-category="{{ item.title }}">
+        {% for group in item.groups %}
+            {%- set slugifiedGroup -%}
+                {{- group.title | lower | replace (" ", "-") -}}
+            {%- endset -%}
+            <li class="group-list group-list-{{ slugifiedGroup }}" data-group="{{ group.title }}">
+                <h2 class="group-list__title group-list__title--{{ slugifiedGroup }}" id="{{ slugifiedGroup }}">{{ group.title }}</h2>
+                <ul class="flavor-list">
+                {% for flavor in group.flavors %}
+                    <li>{{ flavor }}</li>
+                {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+{% endblock %}

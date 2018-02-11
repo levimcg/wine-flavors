@@ -1,0 +1,15 @@
+:root {
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", "Helvetica", sans-serif;
+    --color-base: #333;
+    --color-background: #ffffff;
+
+    --space-unit: .25rem;
+    --space-xs: calc(var(--space-unit) * 2);
+    --space-sm: calc(var(--space-unit) * 2);
+    --space-md: calc(var(--space-unit) * 4);
+    --space-lg: calc(var(--space-unit) * 8);
+    --space-xl: calc(var(--space-unit) * 16);
+    --space-xxl: calc(var(--space-unit) * 32);
+
+    --gutter: 1.5rem;
+}

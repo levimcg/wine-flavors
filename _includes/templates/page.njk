@@ -1,0 +1,8 @@
+{% extends "templates/base.njk" %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+    <div class="main-content">
+        {{ _layoutContent | safe }}
+    </div>
+{% endblock %}

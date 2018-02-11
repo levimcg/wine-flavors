@@ -1,0 +1,24 @@
+{
+  "name": "favorite-foods",
+  "version": "1.0.0",
+  "description": "Just using this repo to play around with [Eleventy](https://github.com/11ty/eleventy)",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levimcg/eleventy-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.2.2",
+    "autoprefixer": "^7.2.4",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-util": "^3.0.8",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-partial-import": "^4.1.0"
+  }
+}

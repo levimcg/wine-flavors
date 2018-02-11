@@ -1,0 +1,247 @@
+@import "variables.css";
+@import "normalize.css";
+@import "base.css";
+
+.site-header {
+    line-height: 1;
+    padding: var(--space-lg);
+    border-bottom: 1px solid #eeeeee;
+}
+
+.site-title {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.flavor-nav {
+    padding: var(--space-lg);
+    background-color: #fafafa;
+}
+
+.flavor-list-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flavor-list-nav__item a {
+    border-radius: 4px;
+    text-decoration: none;
+    padding: var(--space-unit);
+    display: inline-block;
+    margin-right: .5rem;
+    margin-bottom: .5rem;
+}
+
+.group-list,
+.flavor-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.flavor-list {
+    padding-top: 0;
+    padding-right: var(--space-lg);
+    padding-bottom: var(--space-md);
+    padding-left: var(--space-lg);
+}
+
+
+.group-list__title {
+    margin: 0;
+    padding: var(--space-md) var(--space-lg);
+}
+
+
+.flavor-nav-floral a {
+    background-color: #6972b5;
+    color: #ffffff;
+}
+
+.group-list-floral {
+    background-color: #6972b5;
+    color: #ffffff;
+}
+
+.flavor-nav-citrus a {
+    background-color: #82c045;
+    color: #ffffff;
+}
+
+.group-list-citrus {
+    background-color: #82c045;
+    color: #ffffff;
+}
+
+.flavor-nav-tree-fruit a {
+    background-color: #f0a355;
+    color: #ffffff;
+}
+
+.group-list-tree-fruit {
+    background-color: #f0a355;
+    color: #ffffff;
+}
+
+.flavor-nav-tropical-fruit a {
+    background-color: #f15a2d;
+    color: #ffffff;
+}
+
+.group-list-tropical-fruit {
+    background-color: #f15a2d;
+    color: #ffffff;
+}
+
+.flavor-nav-red-fruit a {
+    background-color: #c22328;
+    color: #ffffff;
+}
+
+.group-list-red-fruit {
+    background-color: #c22328;
+    color: #ffffff;
+}
+
+.flavor-nav-black-fruit a {
+    background-color: #911f38;
+    color: #ffffff;
+}
+
+.group-list-black-fruit {
+    background-color: #911f38;
+    color: #ffffff;
+}
+
+.flavor-nav-dried-fruit a {
+    background-color: #c36391;
+    color: #ffffff;
+}
+
+.group-list-dried-fruit {
+    background-color: #c36391;
+    color: #ffffff;
+}
+
+.flavor-nav-noble-rot a {
+    background-color: #3d97d3;
+    color: #ffffff;
+}
+
+.group-list-noble-rot {
+    background-color: #3d97d3;
+    color: #ffffff;
+}
+
+.flavor-nav-spice a {
+    background-color: #09b9af;
+    color: #ffffff;
+}
+
+.group-list-spice {
+    background-color: #09b9af;
+    color: #ffffff;
+}
+
+.flavor-nav-vegetable a {
+    background-color: #249448;
+    color: #ffffff;
+}
+
+.group-list-vegetable {
+    background-color: #249448;
+    color: #ffffff;
+}
+
+.flavor-nav-earth a {
+    background-color: #78a643;
+    color: #ffffff;
+}
+
+.group-list-earth {
+    background-color: #78a643;
+    color: #ffffff;
+}
+
+.flavor-nav-microbial a {
+    background-color: #bfbe32;
+    color: #ffffff;
+}
+
+.group-list-microbial {
+    background-color: #bfbe32;
+    color: #ffffff;
+}
+
+.flavor-nav-oak-aging a {
+    background-color: #bf922d;
+    color: #ffffff;
+}
+
+.group-list-oak-aging {
+    background-color: #bf922d;
+    color: #ffffff;
+}
+
+.flavor-nav-general-aging a {
+    background-color: #dc8536;
+    color: #ffffff;
+}
+
+.group-list-general-aging {
+    background-color: #dc8536;
+    color: #ffffff;
+}
+
+.flavor-nav-cork-taint a {
+    background-color: #bf8172;
+    color: #ffffff;
+}
+
+.group-list-cork-taint {
+    background-color: #bf8172;
+    color: #ffffff;
+}
+
+.flavor-nav-sulfides-and-mercaptans a {
+    background-color: #cc7446;
+    color: #ffffff;
+}
+
+.group-list-sulfides-and-mercaptans {
+    background-color: #cc7446;
+    color: #ffffff;
+}
+
+.flavor-nav-brettanomyces a {
+    background-color: #b44c4b;
+    color: #ffffff;
+}
+
+.group-list-brettanomyces {
+    background-color: #b44c4b;
+    color: #ffffff;
+}
+
+.flavor-nav-madeirized a {
+    background-color: #b63375;
+    color: #ffffff;
+}
+
+.group-list-madeirized {
+    background-color: #b63375;
+    color: #ffffff;
+}
+
+.flavor-nav-volatile-acidity a {
+    background-color: #9c4da0;
+    color: #ffffff;
+}
+
+.group-list-volatile-acidity {
+    background-color: #9c4da0;
+    color: #ffffff;
+}
