@@ -3,7 +3,7 @@
     "lang": "en",
     "name": "Wine Tasting Flavor Chart",
     "scope": "/wine-flavors/",
-    "display": "browser",
+    "display": "minimal-ui",
     "start_url": "https://levimcg.github.io/wine-flavors/",
     "short_name": "Flavor Tree",
     "theme_color": "transparent",
