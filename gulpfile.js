@@ -47,7 +47,7 @@ gulp.task('css:watch', function() {
 })
 
 gulp.task('manifest', function() {
-    return gulp.src('./manifest.json')
+    return gulp.src(['./manifest.json', './pwabuilder-sw.js'])
         .pipe(gulp.dest('./_site'));
 })
 
