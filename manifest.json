@@ -1,0 +1,102 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Wine Tasting Flavor Chart",
+    "scope": "/flavor-tree/",
+    "display": "browser",
+    "start_url": "https://levimcg.github.io/flavor-tree/",
+    "short_name": "Flavor Tree",
+    "theme_color": "transparent",
+    "description": "A wine tasting flavor wheel with a mobile-friendly view",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/3d5a6d80-20fc-f1df-4811-e564abaca002.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/073f0a8d-4f73-810e-c8bd-42d8ca4c7a9c.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/465f6f19-0165-0396-44f4-833f8b320085.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/52d78c5d-e4c6-fb1e-b47f-8cd24fdd120a.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7973716c-2b39-daf7-59e9-e4e6c283e0e8.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/28d752ed-52d2-09b4-5068-da348dcfcad1.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1ffee642-b778-e787-bb7d-2c9bad0442a6.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8ec0c172-a0b7-fe7e-c37c-ec7ede3396f7.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ffa8583f-6005-23bc-6470-7346d77912a5.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4f07c7e1-f5c9-87d0-c3e3-a7014131dfc0.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c550eaf0-5db2-9098-25ab-18c2b3373f57.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dffa53a9-2566-a6ce-8742-3a45c77f497c.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/49982b52-61b9-a06d-4cd4-3186ef336e2e.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/832a011f-ebab-9fb9-a905-b1c43619315d.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/28920c0b-877f-cbac-185c-27b05b84134a.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2eb6f9e6-d417-c931-8af7-92443e353135.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6ac3ffdc-f827-992b-a3f0-bd7e5c33ce27.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
