@@ -46,6 +46,11 @@ gulp.task('css:watch', function() {
     gulp.watch("./css/**/*.css", ["css"])
 })
 
-gulp.task('build', ['css', 'eleventy']);
+gulp.task('manifest', function() {
+    return gulp.src('./manifest.json')
+        .pipe(gulp.dest('./_site'));
+})
+
+gulp.task('build', ['css', 'eleventy', 'manifest']);
 
 gulp.task("default", ['css', 'eleventy:watch', 'css:watch'])
