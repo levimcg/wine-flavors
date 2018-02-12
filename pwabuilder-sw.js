@@ -2,6 +2,7 @@
 
 var CACHE = 'pwabuilder-precache';
 var precacheFiles = [
+    './',
     './css/style.css',
     './about/'
 ];
