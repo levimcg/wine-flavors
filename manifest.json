@@ -6,7 +6,7 @@
     "display": "minimal-ui",
     "start_url": "https://levimcg.github.io/wine-flavors/",
     "short_name": "Flavor Tree",
-    "theme_color": "#6e2273",
+    "theme_color": "#6E2273",
     "description": "A wine tasting flavor wheel with a mobile-friendly view",
     "orientation": "any",
     "background_color": "#6E2273",
